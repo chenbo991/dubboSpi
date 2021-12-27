@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC" />
+    <file type="web" url="file://$PROJECT_DIR$/../dubbo-basic/busi-mall" />
+    <file type="web" url="file://$PROJECT_DIR$/../dubbo-basic/busi-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2" />
+    <file type="web" url="file://$PROJECT_DIR$/../../balance-springboot等3个文件/springboot-web-vip-2" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot等3个文件/alipay-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot等3个文件/balance-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot等3个文件/springboot-web-vip-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot/alipay-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot/balance-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/pom.xml" />
+        <option value="$PROJECT_DIR$/../../balance-springboot/spring-boot-2.2.2.RELEASE/pom.xml" />
+        <option value="C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

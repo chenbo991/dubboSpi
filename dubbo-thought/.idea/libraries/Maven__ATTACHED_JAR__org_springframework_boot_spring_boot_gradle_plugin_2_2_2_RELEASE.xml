@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: ATTACHED-JAR: org.springframework.boot:spring-boot-gradle-plugin:2.2.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../balance-springboot/spring-boot-2.2.2.RELEASE/spring-boot-project/spring-boot-tools/spring-boot-gradle-plugin/build/libs/spring-boot-gradle-plugin-2.2.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

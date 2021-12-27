@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yssinfoJPMC:war exploded">
+    <output-path>C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC/target/yssinfoJPMC</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>yssinfoJPMC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yssinfoJPMC" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC/target/yssinfoJPMC/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="yssinfoJPMC/web/Web" />
+    </root>
+  </artifact>
+</component>

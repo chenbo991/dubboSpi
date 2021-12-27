@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="busi-logic" />
+        <module name="dubbo-rpc-rmi" />
+        <module name="dubbo-remoting-p2p" />
+        <module name="base-api" />
+        <module name="dubbo-registry-redis" />
+        <module name="yssinfoJPMC" />
+        <module name="dubbo-test-examples" />
+        <module name="dubbo-remoting-netty" />
+        <module name="dubbo-config-spring" />
+        <module name="dubbo-container-logback" />
+        <module name="dubbo-serialization-fst" />
+        <module name="dubbo-registry-zookeeper" />
+        <module name="dubbo-remoting-mina" />
+        <module name="base-spi" />
+        <module name="dubbo-common" />
+        <module name="dubbo-test-benchmark" />
+        <module name="dubbo-rpc-rest" />
+        <module name="dubbo-bootstrap" />
+        <module name="dubbo-registry-multicast" />
+        <module name="dubbo-rpc-http" />
+        <module name="dubbo-config-api" />
+        <module name="dubbo-remoting-api" />
+        <module name="dubbo-rpc-memcached" />
+        <module name="dubbo-registry-default" />
+        <module name="dubbo-rpc-injvm" />
+        <module name="dubbo-serialization-hessian2" />
+        <module name="spring-boot-web" />
+        <module name="dubbo-demo-provider" />
+        <module name="dubbo-rpc-redis" />
+        <module name="dubbo-serialization-fastjson" />
+        <module name="dubbo-container-log4j" />
+        <module name="dubbo-container-api" />
+        <module name="dubbo-rpc-webservice" />
+        <module name="dubbo-rpc-api" />
+        <module name="dubbo-test-spring3" />
+        <module name="dubbo-registry-api" />
+        <module name="dubbo-filter-validation" />
+        <module name="alipay-springboot" />
+        <module name="dubbo-cluster" />
+        <module name="dubbo-rpc-thrift" />
+        <module name="dubbo-filter-cache" />
+        <module name="dubbo-monitor-api" />
+        <module name="dubbo-remoting-netty4" />
+        <module name="dubbo-qos" />
+        <module name="dubbo-demo-api" />
+        <module name="base-dubbo-ext" />
+        <module name="dubbo-serialization-api" />
+        <module name="dubbo-monitor-default" />
+        <module name="balance-springboot" />
+        <module name="dubbo-rpc-dubbo" />
+        <module name="dubbo-container-spring" />
+        <module name="dubbo-remoting-zookeeper" />
+        <module name="dubbo-remoting-grizzly" />
+        <module name="dubbo-remoting-http" />
+        <module name="dubbo-test-integration" />
+        <module name="dubbo-serialization-kryo" />
+        <module name="dubbo-demo-consumer" />
+        <module name="dubbo" />
+        <module name="dubbo-rpc-hessian" />
+        <module name="dubbo-serialization-jdk" />
+      </profile>
+      <profile name="Annotation profile for Spring Boot Build" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-properties-migrator" />
+        <module name="spring-boot-actuator" />
+        <module name="spring-boot" />
+        <module name="spring-boot-autoconfigure" />
+        <module name="spring-boot-test-autoconfigure" />
+        <module name="spring-boot-docs" />
+        <module name="spring-boot-cli" />
+        <module name="spring-boot-devtools" />
+        <module name="spring-boot-test" />
+        <module name="spring-boot-actuator-autoconfigure" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-configuration-metadata" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-configuration-metadata" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-configuration-docs" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-configuration-docs" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-antlib" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-antlib" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-loader-tools" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-loader-tools" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-loader" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-loader" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-activemq" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-activemq" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-test-support" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-test-support" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-maven-plugin" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-maven-plugin" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-batch" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-batch" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-artemis" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-artemis" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-aop" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-aop" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-amqp" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-amqp" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-cassandra-reactive" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-cassandra-reactive" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-cassandra" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-cassandra" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-cloud-connectors" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-cloud-connectors" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-cache" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-cache" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-jdbc" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-jdbc" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-elasticsearch" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-elasticsearch" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-couchbase-reactive" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-couchbase-reactive" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-couchbase" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-couchbase" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-mongodb-reactive" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-mongodb-reactive" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-mongodb" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-mongodb" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-ldap" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-ldap" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-jpa" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-jpa" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-rest" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-rest" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-redis-reactive" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-redis-reactive" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-redis" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-redis" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-neo4j" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-neo4j" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-hateoas" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-hateoas" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-groovy-templates" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-groovy-templates" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-freemarker" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-freemarker" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-data-solr" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-data-solr" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jetty" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jetty" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jersey" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jersey" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jdbc" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jdbc" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-integration" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-integration" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jta-bitronix" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jta-bitronix" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jta-atomikos" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jta-atomikos" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-json" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-json" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-jooq" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-jooq" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-mustache" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-mustache" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-mail" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-mail" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-log4j2" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-log4j2" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-logging" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-logging" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-oauth2-resource-server" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-oauth2-resource-server" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-oauth2-client" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-oauth2-client" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-actuator" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-actuator" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-security" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-security" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-rsocket" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-rsocket" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-reactor-netty" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-reactor-netty" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-quartz" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-quartz" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-undertow" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-undertow" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-tomcat" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-tomcat" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-thymeleaf" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-thymeleaf" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-test" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-test" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-websocket" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-websocket" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-webflux" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-webflux" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-web" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-web" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-validation" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-validation" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-configuration-processor-tests" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-configuration-processor-tests" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-starter-web-services" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-starter-web-services" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-launch-script-tests" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-launch-script-tests" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-server-tests" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-server-tests" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-devtools-tests" enabled="true">
+        <sourceOutputDir name="../../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-devtools-tests" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alipay-springboot" target="1.7" />
+      <module name="balance-springboot" target="1.7" />
+      <module name="base-api" target="1.5" />
+      <module name="base-dubbo-ext" target="1.5" />
+      <module name="base-rpc-consumer" target="1.8" />
+      <module name="base-rpc-provider" target="1.8" />
+      <module name="base-spi" target="1.5" />
+      <module name="busi-api" target="1.8" />
+      <module name="busi-logic" target="1.5" />
+      <module name="busi-mall" target="1.8" />
+      <module name="busi-mvc" target="1.8" />
+      <module name="busi-xml-server-client" target="1.8" />
+      <module name="dubbo" target="1.6" />
+      <module name="dubbo-basic" target="1.8" />
+      <module name="dubbo-bom" target="1.5" />
+      <module name="dubbo-bootstrap" target="1.6" />
+      <module name="dubbo-cluster" target="1.6" />
+      <module name="dubbo-common" target="1.6" />
+      <module name="dubbo-config" target="1.6" />
+      <module name="dubbo-config-api" target="1.6" />
+      <module name="dubbo-config-spring" target="1.6" />
+      <module name="dubbo-container" target="1.6" />
+      <module name="dubbo-container-api" target="1.6" />
+      <module name="dubbo-container-log4j" target="1.6" />
+      <module name="dubbo-container-logback" target="1.6" />
+      <module name="dubbo-container-spring" target="1.6" />
+      <module name="dubbo-demo" target="1.6" />
+      <module name="dubbo-demo-api" target="1.6" />
+      <module name="dubbo-demo-consumer" target="1.6" />
+      <module name="dubbo-demo-provider" target="1.6" />
+      <module name="dubbo-dependencies-bom" target="1.5" />
+      <module name="dubbo-distribution" target="1.6" />
+      <module name="dubbo-filter" target="1.6" />
+      <module name="dubbo-filter-cache" target="1.6" />
+      <module name="dubbo-filter-validation" target="1.6" />
+      <module name="dubbo-monitor" target="1.6" />
+      <module name="dubbo-monitor-api" target="1.6" />
+      <module name="dubbo-monitor-default" target="1.6" />
+      <module name="dubbo-parent" target="1.6" />
+      <module name="dubbo-plugin" target="1.6" />
+      <module name="dubbo-qos" target="1.6" />
+      <module name="dubbo-registry" target="1.6" />
+      <module name="dubbo-registry-api" target="1.6" />
+      <module name="dubbo-registry-default" target="1.6" />
+      <module name="dubbo-registry-multicast" target="1.6" />
+      <module name="dubbo-registry-redis" target="1.6" />
+      <module name="dubbo-registry-zookeeper" target="1.6" />
+      <module name="dubbo-remoting" target="1.6" />
+      <module name="dubbo-remoting-api" target="1.6" />
+      <module name="dubbo-remoting-grizzly" target="1.6" />
+      <module name="dubbo-remoting-http" target="1.6" />
+      <module name="dubbo-remoting-mina" target="1.6" />
+      <module name="dubbo-remoting-netty" target="1.6" />
+      <module name="dubbo-remoting-netty4" target="1.6" />
+      <module name="dubbo-remoting-p2p" target="1.6" />
+      <module name="dubbo-remoting-zookeeper" target="1.6" />
+      <module name="dubbo-rpc" target="1.6" />
+      <module name="dubbo-rpc-api" target="1.6" />
+      <module name="dubbo-rpc-dubbo" target="1.6" />
+      <module name="dubbo-rpc-hessian" target="1.6" />
+      <module name="dubbo-rpc-http" target="1.6" />
+      <module name="dubbo-rpc-injvm" target="1.6" />
+      <module name="dubbo-rpc-memcached" target="1.6" />
+      <module name="dubbo-rpc-redis" target="1.6" />
+      <module name="dubbo-rpc-rest" target="1.6" />
+      <module name="dubbo-rpc-rmi" target="1.6" />
+      <module name="dubbo-rpc-thrift" target="1.6" />
+      <module name="dubbo-rpc-webservice" target="1.6" />
+      <module name="dubbo-serialization" target="1.6" />
+      <module name="dubbo-serialization-api" target="1.6" />
+      <module name="dubbo-serialization-fastjson" target="1.6" />
+      <module name="dubbo-serialization-fst" target="1.6" />
+      <module name="dubbo-serialization-hessian2" target="1.6" />
+      <module name="dubbo-serialization-jdk" target="1.6" />
+      <module name="dubbo-serialization-kryo" target="1.6" />
+      <module name="dubbo-test" target="1.6" />
+      <module name="dubbo-test-benchmark" target="1.6" />
+      <module name="dubbo-test-compatibility" target="1.6" />
+      <module name="dubbo-test-examples" target="1.6" />
+      <module name="dubbo-test-integration" target="1.6" />
+      <module name="dubbo-test-spring3" target="1.6" />
+      <module name="dubbo-thought" target="1.5" />
+      <module name="org.springframework.boot.gradle.plugin" target="1.8" />
+      <module name="spring-boot" target="1.8" />
+      <module name="spring-boot-actuator" target="1.8" />
+      <module name="spring-boot-actuator-autoconfigure" target="1.8" />
+      <module name="spring-boot-antlib" target="1.8" />
+      <module name="spring-boot-autoconfigure" target="1.8" />
+      <module name="spring-boot-autoconfigure-processor" target="1.8" />
+      <module name="spring-boot-build" target="1.5" />
+      <module name="spring-boot-cli" target="1.8" />
+      <module name="spring-boot-configuration-docs" target="1.8" />
+      <module name="spring-boot-configuration-metadata" target="1.8" />
+      <module name="spring-boot-configuration-processor" target="1.8" />
+      <module name="spring-boot-configuration-processor-tests" target="1.8" />
+      <module name="spring-boot-dependencies" target="1.5" />
+      <module name="spring-boot-devtools" target="1.8" />
+      <module name="spring-boot-devtools-tests" target="1.8" />
+      <module name="spring-boot-docs" target="1.8" />
+      <module name="spring-boot-gradle-plugin" target="1.8" />
+      <module name="spring-boot-integration-tests" target="1.8" />
+      <module name="spring-boot-launch-script-tests" target="1.8" />
+      <module name="spring-boot-loader" target="1.8" />
+      <module name="spring-boot-loader-tools" target="1.8" />
+      <module name="spring-boot-maven-plugin" target="1.8" />
+      <module name="spring-boot-parent" target="1.8" />
+      <module name="spring-boot-project" target="1.5" />
+      <module name="spring-boot-properties-migrator" target="1.8" />
+      <module name="spring-boot-server-tests" target="1.8" />
+      <module name="spring-boot-smoke-tests-invoker" target="1.8" />
+      <module name="spring-boot-starter" target="1.8" />
+      <module name="spring-boot-starter-activemq" target="1.8" />
+      <module name="spring-boot-starter-actuator" target="1.8" />
+      <module name="spring-boot-starter-amqp" target="1.8" />
+      <module name="spring-boot-starter-aop" target="1.8" />
+      <module name="spring-boot-starter-artemis" target="1.8" />
+      <module name="spring-boot-starter-batch" target="1.8" />
+      <module name="spring-boot-starter-cache" target="1.8" />
+      <module name="spring-boot-starter-cloud-connectors" target="1.8" />
+      <module name="spring-boot-starter-data-cassandra" target="1.8" />
+      <module name="spring-boot-starter-data-cassandra-reactive" target="1.8" />
+      <module name="spring-boot-starter-data-couchbase" target="1.8" />
+      <module name="spring-boot-starter-data-couchbase-reactive" target="1.8" />
+      <module name="spring-boot-starter-data-elasticsearch" target="1.8" />
+      <module name="spring-boot-starter-data-jdbc" target="1.8" />
+      <module name="spring-boot-starter-data-jpa" target="1.8" />
+      <module name="spring-boot-starter-data-ldap" target="1.8" />
+      <module name="spring-boot-starter-data-mongodb" target="1.8" />
+      <module name="spring-boot-starter-data-mongodb-reactive" target="1.8" />
+      <module name="spring-boot-starter-data-neo4j" target="1.8" />
+      <module name="spring-boot-starter-data-redis" target="1.8" />
+      <module name="spring-boot-starter-data-redis-reactive" target="1.8" />
+      <module name="spring-boot-starter-data-rest" target="1.8" />
+      <module name="spring-boot-starter-data-solr" target="1.8" />
+      <module name="spring-boot-starter-freemarker" target="1.8" />
+      <module name="spring-boot-starter-groovy-templates" target="1.8" />
+      <module name="spring-boot-starter-hateoas" target="1.8" />
+      <module name="spring-boot-starter-integration" target="1.8" />
+      <module name="spring-boot-starter-jdbc" target="1.8" />
+      <module name="spring-boot-starter-jersey" target="1.8" />
+      <module name="spring-boot-starter-jetty" target="1.8" />
+      <module name="spring-boot-starter-jooq" target="1.8" />
+      <module name="spring-boot-starter-json" target="1.8" />
+      <module name="spring-boot-starter-jta-atomikos" target="1.8" />
+      <module name="spring-boot-starter-jta-bitronix" target="1.8" />
+      <module name="spring-boot-starter-log4j2" target="1.8" />
+      <module name="spring-boot-starter-logging" target="1.8" />
+      <module name="spring-boot-starter-mail" target="1.8" />
+      <module name="spring-boot-starter-mustache" target="1.8" />
+      <module name="spring-boot-starter-oauth2-client" target="1.8" />
+      <module name="spring-boot-starter-oauth2-resource-server" target="1.8" />
+      <module name="spring-boot-starter-parent" target="1.8" />
+      <module name="spring-boot-starter-quartz" target="1.8" />
+      <module name="spring-boot-starter-reactor-netty" target="1.8" />
+      <module name="spring-boot-starter-rsocket" target="1.8" />
+      <module name="spring-boot-starter-security" target="1.8" />
+      <module name="spring-boot-starter-test" target="1.8" />
+      <module name="spring-boot-starter-thymeleaf" target="1.8" />
+      <module name="spring-boot-starter-tomcat" target="1.8" />
+      <module name="spring-boot-starter-undertow" target="1.8" />
+      <module name="spring-boot-starter-validation" target="1.8" />
+      <module name="spring-boot-starter-web" target="1.8" />
+      <module name="spring-boot-starter-web-services" target="1.8" />
+      <module name="spring-boot-starter-webflux" target="1.8" />
+      <module name="spring-boot-starter-websocket" target="1.8" />
+      <module name="spring-boot-starters" target="1.8" />
+      <module name="spring-boot-test" target="1.8" />
+      <module name="spring-boot-test-autoconfigure" target="1.8" />
+      <module name="spring-boot-test-support" target="1.8" />
+      <module name="spring-boot-tests" target="1.8" />
+      <module name="spring-boot-tools" target="1.8" />
+      <module name="spring-boot-web" target="1.8" />
+      <module name="yssinfoJPMC" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot" options="-parameters" />
+      <module name="spring-boot-actuator" options="-parameters" />
+      <module name="spring-boot-actuator-autoconfigure" options="-parameters" />
+      <module name="spring-boot-antlib" options="-parameters" />
+      <module name="spring-boot-autoconfigure" options="-parameters" />
+      <module name="spring-boot-autoconfigure-processor" options="-parameters" />
+      <module name="spring-boot-cli" options="-parameters" />
+      <module name="spring-boot-configuration-docs" options="-parameters" />
+      <module name="spring-boot-configuration-metadata" options="-parameters" />
+      <module name="spring-boot-configuration-processor" options="-parameters" />
+      <module name="spring-boot-configuration-processor-tests" options="-parameters" />
+      <module name="spring-boot-devtools" options="-parameters" />
+      <module name="spring-boot-devtools-tests" options="-parameters" />
+      <module name="spring-boot-docs" options="-parameters" />
+      <module name="spring-boot-launch-script-tests" options="-parameters" />
+      <module name="spring-boot-loader" options="-parameters" />
+      <module name="spring-boot-loader-tools" options="-parameters" />
+      <module name="spring-boot-maven-plugin" options="-parameters" />
+      <module name="spring-boot-properties-migrator" options="-parameters" />
+      <module name="spring-boot-server-tests" options="-parameters" />
+      <module name="spring-boot-starter" options="-parameters" />
+      <module name="spring-boot-starter-activemq" options="-parameters" />
+      <module name="spring-boot-starter-actuator" options="-parameters" />
+      <module name="spring-boot-starter-amqp" options="-parameters" />
+      <module name="spring-boot-starter-aop" options="-parameters" />
+      <module name="spring-boot-starter-artemis" options="-parameters" />
+      <module name="spring-boot-starter-batch" options="-parameters" />
+      <module name="spring-boot-starter-cache" options="-parameters" />
+      <module name="spring-boot-starter-cloud-connectors" options="-parameters" />
+      <module name="spring-boot-starter-data-cassandra" options="-parameters" />
+      <module name="spring-boot-starter-data-cassandra-reactive" options="-parameters" />
+      <module name="spring-boot-starter-data-couchbase" options="-parameters" />
+      <module name="spring-boot-starter-data-couchbase-reactive" options="-parameters" />
+      <module name="spring-boot-starter-data-elasticsearch" options="-parameters" />
+      <module name="spring-boot-starter-data-jdbc" options="-parameters" />
+      <module name="spring-boot-starter-data-jpa" options="-parameters" />
+      <module name="spring-boot-starter-data-ldap" options="-parameters" />
+      <module name="spring-boot-starter-data-mongodb" options="-parameters" />
+      <module name="spring-boot-starter-data-mongodb-reactive" options="-parameters" />
+      <module name="spring-boot-starter-data-neo4j" options="-parameters" />
+      <module name="spring-boot-starter-data-redis" options="-parameters" />
+      <module name="spring-boot-starter-data-redis-reactive" options="-parameters" />
+      <module name="spring-boot-starter-data-rest" options="-parameters" />
+      <module name="spring-boot-starter-data-solr" options="-parameters" />
+      <module name="spring-boot-starter-freemarker" options="-parameters" />
+      <module name="spring-boot-starter-groovy-templates" options="-parameters" />
+      <module name="spring-boot-starter-hateoas" options="-parameters" />
+      <module name="spring-boot-starter-integration" options="-parameters" />
+      <module name="spring-boot-starter-jdbc" options="-parameters" />
+      <module name="spring-boot-starter-jersey" options="-parameters" />
+      <module name="spring-boot-starter-jetty" options="-parameters" />
+      <module name="spring-boot-starter-jooq" options="-parameters" />
+      <module name="spring-boot-starter-json" options="-parameters" />
+      <module name="spring-boot-starter-jta-atomikos" options="-parameters" />
+      <module name="spring-boot-starter-jta-bitronix" options="-parameters" />
+      <module name="spring-boot-starter-log4j2" options="-parameters" />
+      <module name="spring-boot-starter-logging" options="-parameters" />
+      <module name="spring-boot-starter-mail" options="-parameters" />
+      <module name="spring-boot-starter-mustache" options="-parameters" />
+      <module name="spring-boot-starter-oauth2-client" options="-parameters" />
+      <module name="spring-boot-starter-oauth2-resource-server" options="-parameters" />
+      <module name="spring-boot-starter-quartz" options="-parameters" />
+      <module name="spring-boot-starter-reactor-netty" options="-parameters" />
+      <module name="spring-boot-starter-rsocket" options="-parameters" />
+      <module name="spring-boot-starter-security" options="-parameters" />
+      <module name="spring-boot-starter-test" options="-parameters" />
+      <module name="spring-boot-starter-thymeleaf" options="-parameters" />
+      <module name="spring-boot-starter-tomcat" options="-parameters" />
+      <module name="spring-boot-starter-undertow" options="-parameters" />
+      <module name="spring-boot-starter-validation" options="-parameters" />
+      <module name="spring-boot-starter-web" options="-parameters" />
+      <module name="spring-boot-starter-web-services" options="-parameters" />
+      <module name="spring-boot-starter-webflux" options="-parameters" />
+      <module name="spring-boot-starter-websocket" options="-parameters" />
+      <module name="spring-boot-test" options="-parameters" />
+      <module name="spring-boot-test-autoconfigure" options="-parameters" />
+      <module name="spring-boot-test-support" options="-parameters" />
+      <module name="spring-boot-web" options="-parameters" />
+    </option>
+  </component>
+</project>

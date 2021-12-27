@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yssinfoJPMC:war">
+    <output-path>C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>yssinfoJPMC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="yssinfoJPMC.war">
+      <element id="artifact" artifact-name="yssinfoJPMC:war exploded" />
+    </root>
+  </artifact>
+</component>

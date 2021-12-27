@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6905a0aa-b552-4351-93de-0e5b22954164" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/error-20200211.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/info-20200211.log.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/LOG_PATH_IS_UNDEFINED/info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/spring-boot-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/spring-boot-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/src/main/java/com/xiangxue/jack/swagger2/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/src/main/java/com/xiangxue/jack/swagger2/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2/src/main/resources/application-dev.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dubbo-thought" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../balance-springboot/springboot-web-vip-2" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/javaTools/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="22WocwdzmKtmQBJpea1zxATXIOt" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/busi-logic/src/main/java/com/enjoy" />
+    <property name="last_opened_file_path" value="C:/JPMC-NEW/DEVELOP_LINE_CODE/yssinfoJPMC" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.enjoy" />
+      <recent name="com.enjoy.service" />
+      <recent name="com.enjoy.protocol" />
+      <recent name="com.enjoy.enjoy.service" />
+      <recent name="com.enjoy.orderService.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\study\enjoy\dubbo\demo\dubbo-thought\base-dubbo-ext\src\main" />
+      <recent name="F:\study\enjoy\dubbo\demo\dubbo-thought\base-dubbo-ext\src\main\resources" />
+      <recent name="F:\study\enjoy\dubbo\demo\dubbo-thought\busi-logic\src\main\java\com\enjoy" />
+      <recent name="F:\study\enjoy\dubbo\demo\dubbo-thought\base-spi\src\main\java\com\enjoy.service" />
+      <recent name="F:\study\enjoy\dubbo\demo\dubbo-thought\base-api\src\main\java\com\enjoy\service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootTest">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RpcRegistryProtocolTest.clientRpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="busi-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enjoy" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.RpcRegistryProtocolTest" />
+      <option name="METHOD_NAME" value="clientRpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcRegistryProtocolTest.serverRpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="busi-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enjoy" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.RpcRegistryProtocolTest" />
+      <option name="METHOD_NAME" value="serverRpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcRegistryProtocolTest.serverRpc2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="busi-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enjoy" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.RpcRegistryProtocolTest" />
+      <option name="METHOD_NAME" value="serverRpc2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcTestInvoker.clientRpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="busi-logic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enjoy" />
+      <option name="MAIN_CLASS_NAME" value="com.enjoy.RpcTestInvoker" />
+      <option name="METHOD_NAME" value="clientRpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlipayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="alipay-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhuguang.jack.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhuguang.jack.start.AlipayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiangxue.jack.start.SpringbootTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mall" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.65" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="busi-mall:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dubbo-thought" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1091" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="busi-mall:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="mvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.65" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="busi-mvc:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dubbo-thought_2" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1092" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50249" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="busi-mvc:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RpcTestInvoker.clientRpc" />
+      <item itemvalue="JUnit.RpcRegistryProtocolTest.serverRpc" />
+      <item itemvalue="JUnit.RpcRegistryProtocolTest.serverRpc2" />
+      <item itemvalue="JUnit.RpcRegistryProtocolTest.clientRpc" />
+      <item itemvalue="Spring Boot.SpringbootTest" />
+      <item itemvalue="Spring Boot.AlipayApplication" />
+      <item itemvalue="Tomcat Server.mall" />
+      <item itemvalue="Tomcat Server.mvc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AlipayApplication" />
+        <item itemvalue="JUnit.RpcRegistryProtocolTest.clientRpc" />
+        <item itemvalue="JUnit.RpcRegistryProtocolTest.serverRpc2" />
+        <item itemvalue="JUnit.RpcRegistryProtocolTest.serverRpc" />
+        <item itemvalue="JUnit.RpcTestInvoker.clientRpc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6905a0aa-b552-4351-93de-0e5b22954164" name="Default" comment="" />
+      <created>1578466666435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578466666435</updated>
+      <workItem from="1578466667792" duration="12813000" />
+      <workItem from="1578532322923" duration="18819000" />
+      <workItem from="1578706360531" duration="12297000" />
+      <workItem from="1578876954045" duration="1074000" />
+      <workItem from="1578883847891" duration="7208000" />
+      <workItem from="1578966302391" duration="24031000" />
+      <workItem from="1579054531872" duration="16347000" />
+      <workItem from="1579136724647" duration="21589000" />
+      <workItem from="1579222067433" duration="14555000" />
+      <workItem from="1579334112226" duration="1425000" />
+      <workItem from="1579412325122" duration="25624000" />
+      <workItem from="1579485212753" duration="21867000" />
+      <workItem from="1579569442457" duration="7003000" />
+      <workItem from="1579577721513" duration="33538000" />
+      <workItem from="1579846097085" duration="3741000" />
+      <workItem from="1580372465383" duration="1530000" />
+      <workItem from="1580708584034" duration="27532000" />
+      <workItem from="1580783729323" duration="28486000" />
+      <workItem from="1580877787023" duration="31000" />
+      <workItem from="1580973105603" duration="13673000" />
+      <workItem from="1581044694826" duration="1456000" />
+      <workItem from="1581240468737" duration="12926000" />
+      <workItem from="1581324263180" duration="7537000" />
+      <workItem from="1581408842076" duration="13295000" />
+      <workItem from="1581426597905" duration="4028000" />
+      <workItem from="1639962792005" duration="6897000" />
+      <workItem from="1639979992059" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RpcRegistryProtocolTest_clientRpc - 2020.02.11 at 22h 02m 01s.xml">
+      <configuration name="RpcRegistryProtocolTest.clientRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcRegistryProtocolTest_serverRpc - 2020.02.11 at 22h 17m 16s.xml">
+      <configuration name="RpcRegistryProtocolTest.serverRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcRegistryProtocolTest_serverRpc2 - 2020.02.11 at 22h 17m 14s.xml">
+      <configuration name="RpcRegistryProtocolTest.serverRpc2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_clientRpc - 2020.02.11 at 21h 36m 43s.xml">
+      <configuration name="RpcTestInvoker.clientRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_clientRpc - 2020.02.11 at 21h 36m 49s.xml">
+      <configuration name="RpcTestInvoker.clientRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_serverRpc - 2020.02.11 at 21h 36m 12s.xml">
+      <configuration name="RpcTestInvoker.serverRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_serverRpc - 2020.02.11 at 21h 36m 16s.xml">
+      <configuration name="RpcTestInvoker.serverRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_serverRpc - 2020.02.11 at 22h 01m 27s.xml">
+      <configuration name="RpcTestInvoker.serverRpc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_serverRpc2 - 2020.02.11 at 21h 36m 23s.xml">
+      <configuration name="RpcTestInvoker.serverRpc2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RpcTestInvoker_serverRpc2 - 2020.02.11 at 22h 01m 29s.xml">
+      <configuration name="RpcTestInvoker.serverRpc2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="210" key="FileChooserDialogImpl" timestamp="1639980262090">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="210" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639980262090" />
+    <state x="2520" y="217" key="NewModule_or_Project.wizard" timestamp="1639980263668">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2520" y="217" key="NewModule_or_Project.wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639980263668" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1639978759328">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639978759328" />
+    <state x="2601" y="261" width="558" height="524" key="StructurePopup" timestamp="1639979115572">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2601" y="261" width="558" height="524" key="StructurePopup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639979115572" />
+    <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639980271854">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639980271854" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1639979100005">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639979100005" />
+  </component>
+</project>
